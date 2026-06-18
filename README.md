@@ -16,7 +16,7 @@ Memiliki minat dan fokus di bidang **UI/UX Design**, khususnya dalam perancangan
 ## PENDIDIKAN
 **Universitas Teknologi Digital Indonesia (UTDI)**  
 Program Studi Sistem Informasi  
-Semester 5
+Semester 6
 
 ---
 
