@@ -64,6 +64,9 @@ Semester 5
 ### siKuli (Sistem Kuliah)-Mockup dan Prototype
 🔗 https://www.figma.com/design/DsVx610f21xkUa2vxz1d5E/Untitled
 
+### Katalog Baju-Wireframe
+🔗 https://www.figma.com/design/DsVx610f21xkUa2vxz1d5E/Untitled?node-id=1-2&t=F20LSOLCED0qMzq6-1
+
 ### Buku Resep-Wireframe
 🔗 https://www.figma.com/design/i6aqySDPDiPpjiO7qfzPRZ/Untitled?node-id=0-1&t=cPLx1yRzJtw4TCpb-1
 ---
